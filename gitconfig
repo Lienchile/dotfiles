@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lienchi.le2@gmail.com
+	name = Thi Lienchi Le
